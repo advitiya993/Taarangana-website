@@ -1,2 +1,2 @@
 # Taarangana-website
-This website has been made using html, css and bootstrap.
+This webpage has been made using html, css and bootstrap.
